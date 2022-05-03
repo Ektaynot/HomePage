@@ -1,2 +1,2 @@
 # HomePage
-İsmail Efe Top's Personal HomPage
+İsmail Efe Top's Personal HomePage
