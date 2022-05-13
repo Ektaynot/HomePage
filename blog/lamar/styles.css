@@ -13,3 +13,16 @@ body {
   padding: 3.5em;
 
 }
+
+@media (max-width: 480px) {
+  body {
+   font-size: 18pt;
+
+} } 
+
+@media (min-width: 480px) {
+
+  body{
+        font-size: 26pt;
+
+} }
