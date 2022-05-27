@@ -8,8 +8,9 @@
 ## Site Features
 * english and turkish support 
 * [error page](https://ismailefe.top/404.html)
+* [dark mode](https://ismailefe.top/dark)
 
 ## Work in Progress Features 
 * [blog page](https://ismailefe.top/blog/default)
-* [dark mode](https://ismailefe.top/dark)
+
 
