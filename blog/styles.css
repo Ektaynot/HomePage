@@ -85,6 +85,10 @@ body {
   .image {
     margin: 150px auto;
     /* width: 50%,50%; */
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+
 
   }
 }
