@@ -112,8 +112,8 @@ body {
 .bookmark:hover {
   color: var(--fg);
 }
-.bookmark-set:hover{
+/* .bookmark-set:hover{
   bottom: 10%;
   position: relative;
 
-}
+} */
